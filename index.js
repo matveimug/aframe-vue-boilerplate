@@ -8,8 +8,8 @@ new Vue({
     template: `
     <Layout>
       <Scene>
-        <Box />
+        <Box position="0 0.5 0" color="salmon" />
       </Scene>
     </Layout>
-    `,
+    `
 })
