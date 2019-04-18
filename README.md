@@ -24,5 +24,5 @@ import Box from './components/Box.js'
       <Scene>
         <Box />
       </Scene>
-    `,
+    `
 ```
