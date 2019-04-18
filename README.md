@@ -20,9 +20,9 @@ import Box from './components/Box.js'
 ### kasutamine
 
 ```javascript
-    template: `
-      <Scene>
-        <Box />
-      </Scene>
-    `
+template: `
+  <Scene>
+    <Box />
+  </Scene>
+`
 ```
